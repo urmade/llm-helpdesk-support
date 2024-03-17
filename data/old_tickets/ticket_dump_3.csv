@@ -1,0 +1,11 @@
+Ticket ID,Issue,Category,Resolution,Date,Agent Name,Resolved,Description
+TKT1000,Email account locked,Hardware,Check network settings,2024-01-16 19:30:28,Tammy Cardenas,false,User's email account is locked due to multiple incorrect password attempts. Requires password reset and account unlock.
+TKT1001,Printer not connecting,Hardware,Update software,2024-01-20 11:43:44,Julie Leonard,true,Network printer is not connecting to the office network making it impossible for employees to print documents.
+TKT1002,VPN connectivity issue,Software,Replace hardware component,2024-01-24 22:03:01,Charlotte Grant,false,VPN connection is frequently dropping causing remote work disruptions. User needs a stable VPN connection.
+TKT1003,Software installation error,Hardware,Replace hardware component,2024-01-13 23:40:20,John Tucker,true,Error encountered during the installation of a critical software update. Installation process fails with an error code.
+TKT1004,Computer running slow,Network,Update software,2024-01-12 01:26:58,Michele Gonzalez,true,User's computer is experiencing significant slowdowns especially when running multiple applications. Might require performance diagnosis.
+TKT1005,Cannot access shared drive,Software,Replace hardware component,2024-01-12 08:07:11,Michael Rodriguez,false,User is unable to access the shared network drive. Possible permission issues or network connectivity problems.
+TKT1006,Wi-Fi keeps disconnecting,Network,Check network settings,2024-01-19 18:41:13,Michelle Olson,true,The office Wi-Fi network keeps disconnecting affecting multiple employees. Could be an issue with the Wi-Fi router or network configuration.
+TKT1007,Blue screen error on PC,Network,Reboot the system,2024-01-10 07:25:09,Daniel Miller,true,User's PC shows a blue screen error after startup. Requires troubleshooting to identify the cause of the system crash.
+TKT1008,Lost data recovery,Software,Replace hardware component,2024-01-10 00:04:04,Lisa Robinson,true,User accidentally deleted important files and needs to recover them. Possible data recovery from backups or undoing deletion.
+TKT1009,Laptop battery not charging,Network,Replace hardware component,2024-01-11 08:06:41,Sherri Hill,true,User's laptop battery is not charging when plugged in. Potential hardware issue with the battery or charging port.

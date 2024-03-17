@@ -1,0 +1,21 @@
+Test Name;Test Case ID;Vector Store;Filters(n/r/c/rc);Correct Answers;Total Score;Average Confidence
+llm__1key_iteration1_nf;Overall;chroma;n;;0.4;-112026.92041792872
+llm__1key_iteration1_rf;Overall;chroma;r;;0.4;-112026.92041792872
+llm__1key_iteration1_cf;Overall;chroma;c;;0.4;-112026.92041792872
+llm__1key_iteration1_rcf;Overall;chroma;rc;;0.4;-112026.92041792872
+llm__1key_iteration2_nf;Overall;chroma;n;;0.4833333333333333;-116489.57636489366
+llm__1key_iteration2_rf;Overall;chroma;r;;0.4833333333333333;-116489.57636489366
+llm__1key_iteration2_cf;Overall;chroma;c;;0.4833333333333333;-116489.57636489366
+llm__1key_iteration2_rcf;Overall;chroma;rc;;0.4833333333333333;-116489.57636489366
+llm__1key_iteration3_nf;Overall;chroma;n;;0.7166666666666667;-105126.7134017497
+llm__1key_iteration3_rf;Overall;chroma;r;;0.7166666666666667;-105126.7134017497
+llm__1key_iteration3_cf;Overall;chroma;c;;0.7166666666666667;-105126.7134017497
+llm__1key_iteration3_rcf;Overall;chroma;rc;;0.7166666666666667;-105126.7134017497
+llm__1key_iteration4_nf;Overall;chroma;n;;0.5333333333333333;-116050.71686319665
+llm__1key_iteration4_rf;Overall;chroma;r;;0.5333333333333333;-116050.71686319665
+llm__1key_iteration4_cf;Overall;chroma;c;;0.5333333333333333;-116050.71686319665
+llm__1key_iteration4_rcf;Overall;chroma;rc;;0.5333333333333333;-116050.71686319665
+llm__1key_iteration5_nf;Overall;chroma;n;;0.5333333333333333;-108939.3874786202
+llm__1key_iteration5_rf;Overall;chroma;r;;0.5333333333333333;-108939.3874786202
+llm__1key_iteration5_cf;Overall;chroma;c;;0.5333333333333333;-108939.3874786202
+llm__1key_iteration5_rcf;Overall;chroma;rc;;0.5333333333333333;-108939.3874786202

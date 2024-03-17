@@ -1,0 +1,42 @@
+[
+    {
+        "id": "TCKT-2000",
+        "responses": [ "TCKT-1051"]
+    },
+    {
+        "id": "TCKT-2001",
+        "responses": [ "TCKT-1010"]
+    },
+    {
+        "id": "TCKT-2002",
+        "responses": [ "TKT1003"]
+    },
+    {
+        "id": "TCKT-2003",
+        "responses": []
+    },
+    {
+        "id": "TCKT-2004",
+        "responses": []
+    },
+    {
+        "id": "TCKT-2005",
+        "responses": [ "TCKT-1044", "TKT1001"]
+    },
+    {
+        "id": "TCKT-2006",
+        "responses": [ "TKT1004"]
+    },
+    {
+        "id": "TCKT-2007",
+        "responses": [ "TCKT-1052"]
+    },
+    {
+        "id": "TCKT-2008",
+        "responses": [ "TCKT-1012", "TCKT-1052"]
+    },
+    {
+        "id": "TCKT-2009",
+        "responses": [ "TCKT-1048", "TCKT-1078"]
+    }
+]

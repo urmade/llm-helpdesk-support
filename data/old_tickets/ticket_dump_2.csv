@@ -1,0 +1,11 @@
+Ticket ID,Issue,Category,Resolution,Date,Agent Name,Resolved,Description
+TCKT-1050,Email client crashes on opening,Software,Email client reinstalled,2024-01-30,Alice Johnson,true,The email client crashes whenever the user tries to open it.
+TCKT-1051,VPN not connecting,Network,VPN client updated,2024-01-31,Bob Smith,false,VPN fails to connect to the company\'s network showing error messages.
+TCKT-1052,Account locked out - needs reset,Account Management,Account unlocked and password reset,2024-02-01,Cathy Brown,true,User\'s account is locked out after multiple wrong password attempts.
+TCKT-1053,Permission needed for software update,Software,Software update permissions granted,2024-02-02,David Clark,false,Update required for a key software but user lacks installation rights.
+TCKT-1054,Printer printing blank pages,Hardware,Printer maintenance performed,2024-02-03,Eva Adams,true,The printer is only printing blank pages despite having ink.
+TCKT-1055,Laptop battery draining quickly,Hardware,Battery replaced,2024-02-04,Frank Wright,false,The laptop battery is draining much faster than usual.
+TCKT-1057,Unable to edit files in shared drive,Network,Shared drive permissions updated,2024-02-06,Harry Lopez,false,User can view but not edit files in the shared drive.
+TCKT-1059,PC restarting randomly,Hardware,Hardware diagnostics and repair,2024-02-08,Jack Martinez,false,The PC is experiencing random restarts during work.
+TCKT-1076,Mobile app login issues,Software,App password reset done,2024-02-05,Gina Hall,true,Issues with logging into the company\'s mobile app.
+TCKT-1078,Receiving spam from internal emails,Software,Spam filter reconfigured,2024-02-07,Ivy Taylor,true,Spam emails are being received from known internal contacts.
